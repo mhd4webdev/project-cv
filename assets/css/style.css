@@ -98,7 +98,7 @@ hero p {
 #skills {
     display: flex;
     gap: 5;
-    border: 1px solid #427AA1;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     margin: 30px;
 }
 
