@@ -81,6 +81,7 @@ hero p {
   display: flex;
   gap: 5px;
   border: 1px solid #427aa1;
+  border-radius: 5px;
   margin: 30px;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
