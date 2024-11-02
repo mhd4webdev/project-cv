@@ -104,7 +104,8 @@ hero p {
 #skills {
   display: flex;
   gap: 5;
-  border: 1px solid #427aa1;
+  border: 1px solid rgba(0, 0, 0, 0.16);
+  border-radius: 5px;
   margin: 30px;
 }
 
@@ -134,7 +135,8 @@ hero p {
 #education {
   display: flex;
   gap: 5;
-  border: 1px solid #427aa1;
+  border: 1px solid rgba(0, 0, 0, 0.16);
+  border-radius: 5px;
   margin: 30px;
 }
 
@@ -158,7 +160,8 @@ hero p {
 #contact {
   display: flex;
   gap: 8;
-  border: 1px solid #427aa1;
+  border: 1px solid rgba(0, 0, 0, 0.16);
+  border-radius: 5px;
   margin: 25px;
 }
 
