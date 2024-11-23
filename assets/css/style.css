@@ -246,7 +246,12 @@ footer h3 {
   header h1 {
     display: none;
   }
-  
+
+  nav {
+    text-align: center;
+    flex-wrap: wrap;
+    column-gap: 5rem;
+  }
 }
 
 footer p {
